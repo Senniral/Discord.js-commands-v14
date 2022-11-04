@@ -1,6 +1,5 @@
 {
     "prefix": "volt",
-	"verifyRole": "1023664585498169406",
 	"messages": {
 		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
 	}
